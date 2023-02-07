@@ -1,0 +1,21 @@
+김길동 44 인천시 아무동 개발자
+곽동 22 서울시 금천구 가산디지털로 디자이너
+홍길동이 33 부산시 무슨구 무슨동 542 팀장
+
+// CSV : Common String Value
+   김길동, 44, 인천시 아무동, 개발자
+   
+// XML
+
+	<person>
+		<name> 김길동 </name>
+		<age> 44 </age>
+	</person>
+	
+// JSON
+
+	{ person : {
+		name : '홍길동',
+		age : 44
+		}
+	}			   
